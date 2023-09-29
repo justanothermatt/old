@@ -1,0 +1,4 @@
+﻿  Source.cpp
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  p6-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory 6\p6-1\Debug\p6-1.exe
+  p6-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory 6\p6-1\Debug\p6-1.pdb (Full PDB)

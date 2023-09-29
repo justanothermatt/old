@@ -1,0 +1,5 @@
+5
+<>(()  --- Solution is incorrect
+{}()<()>  --- Solution is correct
+<{()}>  --- Solution is correct
+))))  --- Solution is incorrect

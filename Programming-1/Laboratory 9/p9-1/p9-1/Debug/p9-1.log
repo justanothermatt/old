@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory's\laboratory 9\p9-1\p9-1\source.cpp(68): warning C4715: 'monthOfYear': not all control paths return a value
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory's\laboratory 9\p9-1\p9-1\source.cpp(52): warning C4715: 'dayOfWeek': not all control paths return a value
+  p9-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 9\p9-1\Debug\p9-1.exe
+  p9-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 9\p9-1\Debug\p9-1.pdb (Full PDB)

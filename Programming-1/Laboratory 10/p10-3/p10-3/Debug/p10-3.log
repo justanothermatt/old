@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory's\laboratory 10\p10-3\p10-3\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  p10-3.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 10\p10-3\Debug\p10-3.exe
+  p10-3.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 10\p10-3\Debug\p10-3.pdb (Full PDB)

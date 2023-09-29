@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory 4\p4-4\p4-4\source.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory 4\p4-4\p4-4\source.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory 4\p4-4\p4-4\source.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory 4\p4-4\p4-4\source.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  p4-4.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory 4\p4-4\Debug\p4-4.exe
+  p4-4.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory 4\p4-4\Debug\p4-4.pdb (Full PDB)

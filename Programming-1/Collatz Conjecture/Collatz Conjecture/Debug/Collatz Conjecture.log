@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\collatz conjecture\collatz conjecture\source.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Collatz Conjecture.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Collatz Conjecture\Debug\Collatz Conjecture.exe
+  Collatz Conjecture.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Collatz Conjecture\Debug\Collatz Conjecture.pdb (Full PDB)

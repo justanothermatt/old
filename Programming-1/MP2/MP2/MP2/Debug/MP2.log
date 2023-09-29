@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\machine projects\mp2\mp2\mp2\source.cpp(185): warning C4715: 'getUserInput': not all control paths return a value
+  MP2.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Machine Projects\MP2\MP2\Debug\MP2.exe
+  MP2.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Machine Projects\MP2\MP2\Debug\MP2.pdb (Full PDB)

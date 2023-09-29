@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory 5\p5-1\p5-1\source.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  p5-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory 5\p5-1\Debug\p5-1.exe
+  p5-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory 5\p5-1\Debug\p5-1.pdb (Full PDB)

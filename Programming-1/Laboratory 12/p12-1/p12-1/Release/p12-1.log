@@ -1,0 +1,10 @@
+﻿  Source.cpp
+..\..\..\..\Laboratory's\Laboratory 12\p12-1\p12-1\Source.cpp(15): warning C4101: 'letterIndex': unreferenced local variable
+..\..\..\..\Laboratory's\Laboratory 12\p12-1\p12-1\Source.cpp(59): warning C4129: 'P': unrecognized character escape sequence
+  Generating code
+  1 of 153 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  p12-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 12\p12-1\Release\p12-1.exe
+  p12-1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 12\p12-1\Release\p12-1.pdb (Full PDB)

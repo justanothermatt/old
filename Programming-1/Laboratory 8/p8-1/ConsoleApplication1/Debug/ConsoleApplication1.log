@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory's\laboratory 8\consoleapplication1\consoleapplication1\source.cpp(29): warning C4018: '<=': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 8\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 8\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

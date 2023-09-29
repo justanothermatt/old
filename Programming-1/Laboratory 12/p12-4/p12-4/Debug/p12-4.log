@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory's\laboratory 12\p12-4\p12-4\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory's\laboratory 12\p12-4\p12-4\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\id139\dropbox\c++walker-matt\eccs 1611\laboratory's\laboratory 12\p12-4\p12-4\source.cpp(87): warning C4715: 'strcompare': not all control paths return a value
+  p12-4.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 12\p12-4\Debug\p12-4.exe
+  p12-4.vcxproj -> C:\Users\ID139\Dropbox\C++Walker-Matt\ECCS 1611\Laboratory's\Laboratory 12\p12-4\Debug\p12-4.pdb (Full PDB)
